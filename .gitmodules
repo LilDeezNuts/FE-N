@@ -1,0 +1,3 @@
+[submodule "Cupcake"]
+	path = Cupcake
+	url = https://github.com/LilDeezNuts/Cupcake.git
